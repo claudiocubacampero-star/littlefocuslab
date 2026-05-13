@@ -324,6 +324,9 @@ body {
 .contact-details { display: flex; flex-direction: column; gap: 8px; }
 .contact-details p { font-size: 15px; color: var(--gray-700); margin: 0; }
 .contact-details a { color: var(--accent); text-decoration: none; }
+.contact-line { font-size: 15px; color: var(--gray-700); margin: 0 0 4px; }
+.contact-left h2 { margin-bottom: 16px; }
+.contact-left p { margin-bottom: 16px; }
 
 .contact-form {
   display: flex;
